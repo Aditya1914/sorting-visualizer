@@ -1,7 +1,7 @@
-# sorting-visualizer
+# SORTING-VISUALIZER
 
 
-JAVA FRAMEWORKS USED:-
+Java Frameworks :-
 
 -Java Awt 
 
@@ -9,7 +9,7 @@ JAVA FRAMEWORKS USED:-
 
 
 
-IMPORTANT LIBRARIES USED:-
+Important Libraries used:-
 
 -Swing worker
 
@@ -19,7 +19,7 @@ IMPORTANT LIBRARIES USED:-
 
 
 
-SORTING ALGORITHMS:-
+Sorting Algorithms:-
 
 -Insertion sort
 
