@@ -1,11 +1,13 @@
 # SORTING-VISUALIZER
 
 
+
 Java Frameworks :-
 
 -Java Awt 
 
 -Java Swing
+
 
 
 
@@ -16,6 +18,7 @@ Important Libraries used:-
 -Swing components
 
 -graphics 2D
+
 
 
 
