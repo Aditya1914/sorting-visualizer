@@ -4,7 +4,9 @@
 Java Framework used:-
 
 -Java Awt 
+
 -Java Swing
+
 
 
 important Libraries used:-
@@ -16,11 +18,17 @@ important Libraries used:-
 -graphics 2D
 
 
+
 Sorting algoritms:-
 
 -Insertion sort
+
 -Selection sort
+
 -Bubble sort
+
 -Merge sort
+
 -Quick sort
+
 -Bogo sort
